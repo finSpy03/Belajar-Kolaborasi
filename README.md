@@ -4,3 +4,6 @@
 * Ini adalah perubahan pertama *finSpy03*
 * Ini adalah perubahan kedua *finSpy03*
 * Ini adalah perubahan ketiga *finSpy03*
+
+# Commit untuk squash changes
+* Ini adalah commit pertama
