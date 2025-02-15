@@ -1,4 +1,4 @@
 # Belajar-Kolaborasi
 
 ## Penambahan ##
-* membuat teks pertama dari hasil fork repository *finSpy03*
+* membuat teks pertama dari fork repository *am-clone*
